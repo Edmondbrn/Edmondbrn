@@ -36,4 +36,4 @@ Fullstack & DevOps developer. I build and ship backend services, mobile apps and
 I take on missions around backend APIs, CI/CD setup and containerization, and React apps.
 
 📧 [edmond.berne@protonmail.com](mailto:edmond.berne@protonmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/edmond-b-11637a209)
+🔗 [LinkedIn](https://www.linkedin.com/in/edmond-b-11637a209)
