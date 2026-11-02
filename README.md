@@ -2,8 +2,8 @@
 
 Fullstack & DevOps developer. I build and ship backend services, mobile apps and the infrastructure around them.
 
-- 🚀 Co-founding **Rintec**, a startup publishing a Flutter mobile app ([Rather / https://rather.fr])
-- 💼 **Available for freelance missions** – [remote / location], from the first of November 2026
+- 🚀 Co-founding **Rintec**, a startup publishing a Flutter mobile app (Rather / https://rather.fr)
+- 💼 **Available for freelance missions**, Remote or on Paris, from the first of November 2026
 - 🔧 Focus: APIs, containerized deployments, CI/CD pipelines, cloud basics on GCP
 
 ## Tech stack
